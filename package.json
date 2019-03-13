@@ -39,7 +39,7 @@
   },
   "homepage": "https://github.com/stanfieldr/ghetto-skype#readme",
   "devDependencies": {
-    "electron": "^1.8.4",
-    "electron-builder": "^20.5.1"
+    "electron": "^4.0.8",
+    "electron-builder": "^20.39.0"
   }
 }
